@@ -23,7 +23,6 @@ export const skillsData = [
   "Dart",
   "Flutter",
   "ViteJS",
-  "Ubuntu",
 ];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
